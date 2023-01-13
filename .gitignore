@@ -1,0 +1,7 @@
+# ambiente virtual
+env/
+
+# dados sensíveis
+datasets/cropped_eyes
+datasets/cropped_eyes.csv
+.env
