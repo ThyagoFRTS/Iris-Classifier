@@ -19,4 +19,4 @@
 ### Select some model
 
 - Enter on models folder and select some type model (simple or dense)
-- Models is in folder ./func_loss/v{version}/siamese_model_{version}/
+- Models is in folder ./{func_loss}/v{version}/siamese_model_{version}/
